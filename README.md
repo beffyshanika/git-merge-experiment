@@ -1,2 +1,4 @@
 # git-merge-experiment
-This change is made in the main branch.
+Git Branching Experiment
+
+This line is changed in the main branch.
